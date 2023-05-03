@@ -4,7 +4,7 @@
 <samp>
 <li>🎓 Lives at Brototype</li>
 <li>🖥 Upcoming MEAN Stack Developer.</li>
-<li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/fasilv843?tab=repositories">GitHub</a></li>
+<li>👨🏻‍💻 Check out my <a href="https://github.com/fasilv843?tab=repositories">GitHub</a> and witness the magic of my coding prowess!!</li>
 </ul>
 
 
