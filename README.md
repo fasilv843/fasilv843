@@ -2,8 +2,7 @@
 
 <ul align="center" style="list-style-type:none;">
 <samp>
-<li>🎓 Lives at Brototype</li>
-<li>🖥 MEAN Stack Developer.</li>
+<li>🖥 Web Developer.</li>
 <li>👨🏻‍💻 Check out my <a href="https://github.com/fasilv843?tab=repositories">GitHub</a> and witness the magic of my coding prowess!!</li>
 </ul>
 
